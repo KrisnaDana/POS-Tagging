@@ -6,10 +6,11 @@ Source code for my team's project at Natural Language Processing Subject. The pr
 
 - Jupyter Notebook installed on your computer or online.
 - PIP (package manager for Python).
+- Git (optional).
 
 ## Installation
 
-Use github command to install the project.
+Use git command to install the project.
 
 ```bash
 git clone https://github.com/KrisnaDana/POS-Tagging.git
