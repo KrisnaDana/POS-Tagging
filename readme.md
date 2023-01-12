@@ -4,7 +4,8 @@ Source code for my team's project at Natural Language Processing Subject. The pr
 
 ## Requirements
 
-- Jupyter Notebook installed on your computer or online.
+- Jupyter Notebook.
+- Python 3.
 - PIP (package manager for Python).
 - Git (optional).
 
