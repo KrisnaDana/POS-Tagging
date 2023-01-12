@@ -5,7 +5,7 @@ Source code for my team's project at Natural Language Processing Subject. The pr
 ## Requirements
 
 - Jupyter Notebook installed on your computer or online.
-- PIP (package manager for Python)
+- PIP (package manager for Python).
 
 ## Installation
 
@@ -30,4 +30,4 @@ pip install scikit-learn
 
 ## Run the Project
 
-Just click the 'Run All' button on your Jupyter Notebook.
+Just click 'Run All' button on your Jupyter Notebook.
