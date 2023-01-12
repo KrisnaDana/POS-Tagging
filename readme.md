@@ -32,4 +32,6 @@ pip install scikit-learn
 
 ## Run the Project
 
-Just click 'Run All' button on your Jupyter Notebook.
+- Open the project using Jupyter Notebook.
+- Select **`main.ipynb`** file.
+- Click **`Run All`** button.
